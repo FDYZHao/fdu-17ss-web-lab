@@ -110,10 +110,6 @@ select {
   width: 75%;
 }
 
-input[name=photo]{
-	width:8.5%;
-} 
-
 textarea {
   width: 100%;
 }
